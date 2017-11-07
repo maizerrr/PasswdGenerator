@@ -1,8 +1,8 @@
 # PasswdGenerator
 <br>
 You can use this tool to generate wordlist
-<br>
-<strong>Procedures</strong><br>
+<br><br>
+<strong>Procedures:</strong><br>
 <p>
 1.Enter "java generator" in terminal\cmd, make sure your computer has Java;<br>
 2.Enter elements;<br>
