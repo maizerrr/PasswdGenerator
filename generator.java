@@ -11,8 +11,8 @@ public class generator {
 		int min=input.nextInt();
 		System.out.print("max: ");
 		int max=input.nextInt();
-        System.out.print("save as: ");
-        String name=input.next();
+                System.out.print("save as: ");
+                String name=input.next();
 		//collected
 		int range=range(str);
 		String[] elements=new String[range];
