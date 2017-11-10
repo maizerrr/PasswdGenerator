@@ -4,7 +4,7 @@ You can use this tool to generate wordlist
 <br><br>
 <strong>Why designing this program?</strong><br>
 <p>
-&nbsp;&nbsp;When I was using <a href="https://sourceforge.net/projects/crunch-wordlist/">crunch</a> to generate WAP/WAP2 wordlist, I noticed that the "-p" parameter has several deficiencies. For instance, it doesn't allow user to modify the length of password generated. Therefore, I designed this program, which I called PasswdGenerator(since I haven't come up with a better name yet). 
+&nbsp;&nbsp;When I was using <a href="https://sourceforge.net/projects/crunch-wordlist/">crunch</a> to generate WAP/WAP2 wordlist, I noticed that the "-p" parameter has several deficiencies. For instance, it doesn't allow user to modify the length of password generated. Therefore, I designed this program, which I called PasswdGenerator(since I haven't come up with a better name yet). <br>
 &nbsp;&nbsp;PasswdGenerator allows you to define elements, and generate passwords each contains certain number of elements. When would you probably need to use this program? Let's say, you try to find out the password of your friend's hotspot. You know your friend's birthday, name, phone number, address, etc. And your friend might use those informations to construct the password. Those informations, like name and birthday, are elements; each combination of those elements might be your friend's password. In such circumstance, you could use PasswdGenerator to generate all the possible combination of elements. You are allowed to specify how many elements would be contained in each password, such as 2 elements, 3, or more. And you can set a range, such as 2 elements at least and 3 at most. Please read the procedure if you want to know how exactly this program work.
 </p>
 <br><br>
