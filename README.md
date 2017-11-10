@@ -11,7 +11,7 @@ You can use this tool to generate wordlist
 <strong>Procedures:</strong><br>
 <p>
 1.Enter "javac generator.java" in terminal/cmd to compile this program, make sure that your device has Java;<br>
-2.Then enter "java generator" to run the program;<br>
+2.Then enter "java generator" to run the program;(.ps If you're using windows, just run "startup.cmd".)<br>
 3.Enter elements;<br>
 4.Enter the minimum number of elements in each password generated;<br>
 5.Enter the maximum number of elements in each password generated;(.ps This number must be smaller than the number of elements you entered previously, since it doesn't make any sense to repeat an elements several times in one password.)<br>
