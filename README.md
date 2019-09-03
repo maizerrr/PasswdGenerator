@@ -13,7 +13,7 @@ PasswdGenerator would ask users to enter several strings (which they believe tha
 <br><br>
 <strong>Steps:</strong><br>
 <p>
-1.This is a command-line tool, open it in a terminal by entering "java -jar passwdgenerator.jar"<br>
+1.This is a command-line tool, open it in a terminal by entering "java -cp ./passwdgenerator.jar generator"<br>
 2.Enter elements, seperate each element using ",";<br>
 3.Enter the minimum number of elements in each password generated;<br>
 4.Enter the maximum number of elements in each password generated;<br>
